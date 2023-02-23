@@ -1,4 +1,12 @@
 # 리액트 쿼리를 활용한 포켓몬 도감 만들기
+## 실행 결과
+**메인**
+> ![image](https://user-images.githubusercontent.com/90890108/220835659-6d649d92-0a3c-4dac-854b-dc5f215ddd09.png)
+**상세**
+> ![image](https://user-images.githubusercontent.com/90890108/220835841-28192b06-3172-47ed-a3d7-47d83866f12a.png)
+> ![image](https://user-images.githubusercontent.com/90890108/220835896-d3213f81-0729-495b-8cf6-fb58eb767ee7.png)
+> ![image](https://user-images.githubusercontent.com/90890108/220835936-b6cca829-4821-4441-915e-e54647b1b702.png)
+
 
 ## 기본 설치 방법
 
@@ -97,3 +105,4 @@ root.render(
 );
 
 ```
+
